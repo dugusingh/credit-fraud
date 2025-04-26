@@ -58,7 +58,8 @@ And get predictions such as: -Loan Status: Bad Risk
 
 ## Output of the Project 
 
-<img width="1208" alt="Screenshot 2025-04-25 at 11 21 23 PM" src="https://github.com/user-attachments/assets/26c7a930-5fec-4003-87bc-2db2ccaa4d1d" />
+<img width="1208" alt="Screenshot 2025-04-26 at 3 58 56 PM" src="https://github.com/user-attachments/assets/11631a60-b05f-4b08-9621-2a77e632114f" />
+
 
 
 
